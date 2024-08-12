@@ -9,6 +9,9 @@ library(dplyr)
 library(ggplot2)
 library(shiny)
 library(shinydashboard)
+library(lubridate)
+
+walmart_data <- read.csv("https://raw.githubusercontent.com/Jorge-hercas/r-para-inteligencia-de-negocios/main/CSV/walmart.csv")
 
 shinyApp(
   ui = fluidPage(
