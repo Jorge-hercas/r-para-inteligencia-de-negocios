@@ -1,0 +1,93 @@
+"","ADDRESSLINE1","CITY","COUNTRY","Direccion_str","address_lng","address_lat","country_lng","country_lat"
+"1","897 Long Airport Avenue","NYC","USA","897 Long Airport Avenue, NYC, USA",-74.0059728,40.7127753,-106.5348379,38.7945952
+"2","59 rue de l'Abbaye","Reims","France","59 rue de l'Abbaye, Reims, France",4.031696,49.258329,2.213749,46.227638
+"3","27 rue du Colonel Pierre Avia","Paris","France","27 rue du Colonel Pierre Avia, Paris, France",2.2758978,48.8296778,2.213749,46.227638
+"4","78934 Hillside Dr.","Pasadena","USA","78934 Hillside Dr., Pasadena, USA",-118.144302,34.1476527,-106.5348379,38.7945952
+"5","7734 Strong St.","San Francisco","USA","7734 Strong St., San Francisco, USA",-122.4194155,37.7749295,-106.5348379,38.7945952
+"6","9408 Furth Circle","Burlingame","USA","9408 Furth Circle, Burlingame, USA",-122.34809,37.5778696,-106.5348379,38.7945952
+"7","184, chausse de Tournai","Lille","France","184, chausse de Tournai, Lille, France",3.0678588,50.624378,2.213749,46.227638
+"8","Drammen 121, PR 744 Sentrum","Bergen","Norway","Drammen 121, PR 744 Sentrum, Bergen, Norway",5.329798,60.3888669,8.468946,60.472024
+"9","5557 North Pendale Street","San Francisco","USA","5557 North Pendale Street, San Francisco, USA",-122.4194155,37.7749295,-106.5348379,38.7945952
+"10","25, rue Lauriston","Paris","France","25, rue Lauriston, Paris, France",2.2919885,48.8711159,2.213749,46.227638
+"11","636 St Kilda Road","Melbourne","Australia","636 St Kilda Road, Melbourne, Australia",144.9816049,-37.8547981,133.775136,-25.274398
+"12","2678 Kingston Rd.","NYC","USA","2678 Kingston Rd., NYC, USA",-74.0059728,40.7127753,-106.5348379,38.7945952
+"13","7476 Moss Rd.","Newark","USA","7476 Moss Rd., Newark, USA",-74.1744671,40.7315293,-106.5348379,38.7945952
+"14","25593 South Bay Ln.","Bridgewater","USA","25593 South Bay Ln., Bridgewater, USA",-70.9754708,41.990242,-106.5348379,38.7945952
+"15","67, rue des Cinquante Otages","Nantes","France","67, rue des Cinquante Otages, Nantes, France",-1.5570992,47.2185906,2.213749,46.227638
+"16","39323 Spinnaker Dr.","Cambridge","USA","39323 Spinnaker Dr., Cambridge, USA",-71.1056916,42.3666036,-106.5348379,38.7945952
+"17","Keskuskatu 45","Helsinki","Finland","Keskuskatu 45, Helsinki, Finland",24.9429471,60.1700353,25.748151,61.92411
+"18","Erling Skakkes gate 78","Stavern","Norway","Erling Skakkes gate 78, Stavern, Norway",10.0359755,58.9991755,8.468946,60.472024
+"19","7586 Pompton St.","Allentown","USA","7586 Pompton St., Allentown, USA",-75.4714098,40.6022939,-106.5348379,38.7945952
+"20","Geislweg 14","Salzburg","Austria","Geislweg 14, Salzburg, Austria",13.0448441,47.8014154,14.550072,47.516231
+"21","Monitor Money Building, 815 Pacific Hwy","Chatswood","Australia","Monitor Money Building, 815 Pacific Hwy, Chatswood, Australia",151.178464,-33.795839,133.775136,-25.274398
+"22","1785 First Street","New Bedford","USA","1785 First Street, New Bedford, USA",-70.9200042,41.6146196,-106.5348379,38.7945952
+"23","Berkeley Gardens 12  Brewery","Liverpool","UK","Berkeley Gardens 12  Brewery, Liverpool, UK",-2.9915726,53.4083714,-3.435973,55.378051
+"24","C/ Moralzarzal, 86","Madrid","Spain","C/ Moralzarzal, 86, Madrid, Spain",-3.7123301,40.4938911,-3.74922,40.463667
+"25","Berguvsv„gen  8","Lule","Sweden","Berguvsv„gen  8, Lule, Sweden",22.1567026,65.584819,18.643501,60.128161
+"26","C/ Araquil, 67","Madrid","Spain","C/ Araquil, 67, Madrid, Spain",-3.7799466,40.4604276,-3.74922,40.463667
+"27","Bronz Sok., Bronz Apt. 3/6 Tesvikiye","Singapore","Singapore","Bronz Sok., Bronz Apt. 3/6 Tesvikiye, Singapore, Singapore",28.9979805,41.0527023,103.819836,1.352083
+"28","5905 Pompton St.","NYC","USA","5905 Pompton St., NYC, USA",-74.0059728,40.7127753,-106.5348379,38.7945952
+"29","31 Duncan St. West End","South Brisbane","Australia","31 Duncan St. West End, South Brisbane, Australia",152.9997904,-27.4833409,133.775136,-25.274398
+"30","782 First Street","Philadelphia","USA","782 First Street, Philadelphia, USA",-75.1652215,39.9525839,-106.5348379,38.7945952
+"31","2, rue du Commerce","Lyon","France","2, rue du Commerce, Lyon, France",4.8651648,45.7655913,2.213749,46.227638
+"32","1900 Oak St.","Vancouver","Canada","1900 Oak St., Vancouver, Canada",-123.126503,49.2659928,-106.346771,56.130366
+"33","3675 Furth Circle","Burbank","USA","3675 Furth Circle, Burbank, USA",-118.3074827,34.1820605,-106.5348379,38.7945952
+"34","4658 Baden Av.","Cambridge","USA","4658 Baden Av., Cambridge, USA",-71.1056916,42.3666036,-106.5348379,38.7945952
+"35","567 North Pendale Street","New Haven","USA","567 North Pendale Street, New Haven, USA",-72.9278835,41.308274,-106.5348379,38.7945952
+"36","2-2-8 Roppongi","Minato-ku","Japan","2-2-8 Roppongi, Minato-ku, Japan",139.7387245,35.6672583,138.252924,36.204824
+"37","Via Monte Bianco 34","Torino","Italy","Via Monte Bianco 34, Torino, Italy",7.6868552,45.0703155,12.56738,41.87194
+"38","?kergatan 24","Boras","Sweden","?kergatan 24, Boras, Sweden",12.939819,57.721035,18.643501,60.128161
+"39","67, avenue de l'Europe","Versailles","France","67, avenue de l'Europe, Versailles, France",2.1310499,48.8047376,2.213749,46.227638
+"40","5677 Strong St.","San Rafael","USA","5677 Strong St., San Rafael, USA",-122.5310874,37.9735346,-106.5348379,38.7945952
+"41","2304 Long Airport Avenue","Nashua","USA","2304 Long Airport Avenue, Nashua, USA",-71.4651747,42.7581256,-106.5348379,38.7945952
+"42","7825 Douglas Av.","Brickhaven","USA","7825 Douglas Av., Brickhaven, USA",-87.8373821,42.825385,-106.5348379,38.7945952
+"43","201 Miller Street","North Sydney","Australia","201 Miller Street, North Sydney, Australia",151.2076915,-33.8363116,133.775136,-25.274398
+"44","43 rue St. Laurent","Montreal","Canada","43 rue St. Laurent, Montreal, Canada",-73.6419419,45.541368,-106.346771,56.130366
+"45","Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku","Osaka","Japan","Dojima Avanza 4F, 1-6-20 Dojima, Kita-ku, Osaka, Japan",135.4962996,34.6968674,138.252924,36.204824
+"46","11328 Douglas Av.","Philadelphia","USA","11328 Douglas Av., Philadelphia, USA",-75.1652215,39.9525839,-106.5348379,38.7945952
+"47","54, rue Royale","Nantes","France","54, rue Royale, Nantes, France",-1.558074,47.2145812,2.213749,46.227638
+"48","3758 North Pendale Street","White Plains","USA","3758 North Pendale Street, White Plains, USA",-73.7650415,41.0332209,-106.5348379,38.7945952
+"49","Vinb'ltet 34","Kobenhavn","Denmark","Vinb'ltet 34, Kobenhavn, Denmark",12.5683371,55.6760968,9.501785,56.26392
+"50","35 King George","London","UK","35 King George, London, UK",-0.0091293,51.4760678,-3.435973,55.378051
+"51","4575 Hillside Dr.","New Bedford","USA","4575 Hillside Dr., New Bedford, USA",-70.9276657,41.6340613,-106.5348379,38.7945952
+"52","1 rue Alsace-Lorraine","Toulouse","France","1 rue Alsace-Lorraine, Toulouse, France",1.445496,43.5996792,2.213749,46.227638
+"53","120 Hanover Sq.","London","UK","120 Hanover Sq., London, UK",-0.1440529,51.5135025,-3.435973,55.378051
+"54","Rambla de Catalu¤a, 23","Barcelona","Spain","Rambla de Catalu¤a, 23, Barcelona, Spain",2.1660976,41.3887654,-3.74922,40.463667
+"55","6047 Douglas Av.","Los Angeles","USA","6047 Douglas Av., Los Angeles, USA",-118.242643,34.0549076,-106.5348379,38.7945952
+"56","361 Furth Circle","San Diego","USA","361 Furth Circle, San Diego, USA",-117.1610838,32.715738,-106.5348379,38.7945952
+"57","Rue Joseph-Bens 532","Bruxelles","Belgium","Rue Joseph-Bens 532, Bruxelles, Belgium",4.3332306,50.8070087,4.469936,50.503887
+"58","23 Tsawassen Blvd.","Tsawassen","Canada","23 Tsawassen Blvd., Tsawassen, Canada",-123.0977176,49.0301162,-106.346771,56.130366
+"59","8616 Spinnaker Dr.","Boston","USA","8616 Spinnaker Dr., Boston, USA",-71.0565364,42.3555076,-106.5348379,38.7945952
+"60","Garden House Crowther Way","Cowes","UK","Garden House Crowther Way, Cowes, UK",-1.300533,50.762785,-3.435973,55.378051
+"61","Torikatu 38","Oulu","Finland","Torikatu 38, Oulu, Finland",25.4649208,65.0103044,25.748151,61.92411
+"62","3086 Ingle Ln.","San Jose","USA","3086 Ingle Ln., San Jose, USA",-121.8852525,37.33874,-106.5348379,38.7945952
+"63","265, boulevard Charonne","Paris","France","265, boulevard Charonne, Paris, France",2.3920477,48.8579087,2.213749,46.227638
+"64","Kirchgasse 6","Graz","Austria","Kirchgasse 6, Graz, Austria",15.4417305,47.0678961,14.550072,47.516231
+"65","6251 Ingle Ln.","Boston","USA","6251 Ingle Ln., Boston, USA",-71.0565364,42.3555076,-106.5348379,38.7945952
+"66","Village Close - 106 Linden Road Sandown","Singapore","Singapore","Village Close - 106 Linden Road Sandown, Singapore, Singapore",103.819836,1.352083,103.819836,1.352083
+"67","15 McCallum Street - NatWest Center #13-03","Makati City","Philippines","15 McCallum Street - NatWest Center #13-03, Makati City, Philippines",121.0244362,14.5547389,121.774017,12.879721
+"68","12, rue des Bouchers","Marseille","France","12, rue des Bouchers, Marseille, France",5.3885846,43.261078,2.213749,46.227638
+"69","Mehrheimerstr. 369","Koln","Germany","Mehrheimerstr. 369, Koln, Germany",6.9461507,50.9734067,10.451526,51.165691
+"70","Grenzacherweg 237","Gensve","Switzerland","Grenzacherweg 237, Gensve, Switzerland",7.6451914,47.5692751,8.227512,46.818188
+"71","Strada Provinciale 124","Reggio Emilia","Italy","Strada Provinciale 124, Reggio Emilia, Italy",10.6346153,44.7030966,12.56738,41.87194
+"72","7635 Spinnaker Dr.","Brickhaven","USA","7635 Spinnaker Dr., Brickhaven, USA",-121.8253091,37.2521334,-106.5348379,38.7945952
+"73","Lyonerstr. 34","Frankfurt","Germany","Lyonerstr. 34, Frankfurt, Germany",8.6242835,50.0784102,10.451526,51.165691
+"74","Software Engineering Center, SEC Oy","Espoo","Finland","Software Engineering Center, SEC Oy, Espoo, Finland",24.6559001,60.2054911,25.748151,61.92411
+"75","4092 Furth Circle","NYC","USA","4092 Furth Circle, NYC, USA",-74.0073678,40.6515641,-106.5348379,38.7945952
+"76","25 Maiden Lane","Dublin","Ireland","25 Maiden Lane, Dublin, Ireland",-6.2603097,53.3498053,-7.3055309,53.7797554
+"77","Merchants House, 27-30 Merchant's Quay","Madrid","Spain","Merchants House, 27-30 Merchant's Quay, Madrid, Spain",-3.7032905,40.4167279,-3.74922,40.463667
+"78","Fauntleroy Circus","Manchester","UK","Fauntleroy Circus, Manchester, UK",-2.2426305,53.4807593,-3.435973,55.378051
+"79","Smagsloget 45","Aaarhus","Denmark","Smagsloget 45, Aaarhus, Denmark",10.203921,56.162939,9.501785,56.26392
+"80","5290 North Pendale Street","NYC","USA","5290 North Pendale Street, NYC, USA",-74.1222216,40.559598,-106.5348379,38.7945952
+"81","4097 Douglas Av.","Glendale","USA","4097 Douglas Av., Glendale, USA",-118.2488703,34.1463674,-106.5348379,38.7945952
+"82","C/ Romero, 33","Sevilla","Spain","C/ Romero, 33, Sevilla, Spain",-5.9723845,37.4076465,-3.74922,40.463667
+"83","2793 Furth Circle","Brisbane","USA","2793 Furth Circle, Brisbane, USA",-122.4023808,37.6847648,-106.5348379,38.7945952
+"84","24, place Kluber","Strasbourg","France","24, place Kluber, Strasbourg, France",7.7521113,48.5734053,2.213749,46.227638
+"85","8489 Strong St.","Las Vegas","USA","8489 Strong St., Las Vegas, USA",-115.1762637,36.1548901,-106.5348379,38.7945952
+"86","Drammensveien 126 A, PB 744 Sentrum","Oslo","Norway","Drammensveien 126 A, PB 744 Sentrum, Oslo, Norway",10.6891509,59.9209689,8.468946,60.472024
+"87","Via Ludovico il Moro 22","Bergamo","Italy","Via Ludovico il Moro 22, Bergamo, Italy",9.6707462,45.6941966,12.56738,41.87194
+"88","7 Allen Street","Glen Waverly","Australia","7 Allen Street, Glen Waverly, Australia",145.1615555,-37.8875033,133.775136,-25.274398
+"89","2440 Pompton St.","Glendale","USA","2440 Pompton St., Glendale, USA",-118.2488703,34.1463674,-106.5348379,38.7945952
+"90","Hansastr. 15","Munich","Germany","Hansastr. 15, Munich, Germany",11.5261491,48.1347865,10.451526,51.165691
+"91","Boulevard Tirou, 255","Charleroi","Belgium","Boulevard Tirou, 255, Charleroi, Belgium",4.448341,50.4049906,4.469936,50.503887
+"92","16780 Pompton St.","Brickhaven","USA","16780 Pompton St., Brickhaven, USA",-106.1674335,31.6467007,-106.5348379,38.7945952
