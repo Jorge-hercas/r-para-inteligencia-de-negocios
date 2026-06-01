@@ -10,7 +10,7 @@ obtener_datos_rsafs <- function() {
 
   fecha_inicial <- "2010-01-01"
   fecha_final <- today()
-  api_key <- "4e0b1a2a082d2929f6b9b0fa065b6b4a"
+  api_key <- "TU_API_KEY"
 
   prefijo <- "https://api.stlouisfed.org/fred/series/observations?"
   formato <- "json"
